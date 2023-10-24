@@ -1,0 +1,23 @@
+[
+    {
+        "companyName": "Company 1",
+        "companyLogo": "https://via.placeholder.com/100",
+        "companyWebsite": "https://www.example.com",
+        "jobTitle": "Job Title",
+        "workPeriod": "2019 - 2020"
+    },
+    {
+        "companyName": "Company 2",
+        "companyLogo": "https://via.placeholder.com/100",
+        "companyWebsite": "https://www.example.com",
+        "jobTitle": "Job Title",
+        "workPeriod": "2020 - 2022"
+    },
+    {
+        "companyName": "Company 3",
+        "companyLogo": "https://via.placeholder.com/100",
+        "companyWebsite": "https://www.example.com",
+        "jobTitle": "Job Title",
+        "workPeriod": "2022 - Present"
+    }
+]

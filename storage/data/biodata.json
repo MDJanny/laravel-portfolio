@@ -1,0 +1,41 @@
+{
+    "name": "Md. Mehedi Hasan",
+    "designation": "Full Stack Web Developer",
+    "experience": "3+ years",
+    "image": "images/person.png",
+    "email": "mdjanny.bd@gmail.com",
+    "skills": [
+        {
+            "name": "HTML",
+            "level": "90%"
+        },
+        {
+            "name": "CSS",
+            "level": "80%"
+        },
+        {
+            "name": "JavaScript",
+            "level": "70%"
+        },
+        {
+            "name": "Bootstrap",
+            "level": "80%"
+        },
+        {
+            "name": "Tailwind CSS",
+            "level": "80%"
+        },
+        {
+            "name": "PHP",
+            "level": "70%"
+        },
+        {
+            "name": "MySQL",
+            "level": "60%"
+        },
+        {
+            "name": "Laravel",
+            "level": "40%"
+        }
+    ]
+}
